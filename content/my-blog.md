@@ -4,5 +4,9 @@ draft = true
 title = "My Blog"
 [[blocks]]
 template = "body-copy"
+[[blocks]]
+background_style = "Brand Color"
+size = "Big"
+template = "hero-section"
 
 +++
